@@ -3,13 +3,13 @@ A total of 4115 Kickstarter campaigns were analysed in order to uncover trends a
 
 The graph 1 - Parent Category Outcomes summarize how the campaigns performed.
 
-![Parent Category Outcomes](.\Report_Graph1.png)
+![Parent Category Outcomes](./Report_Graph1.png)
 
 From all US Kickstarter campaigns, the analysis shows that the theater category has the greatest number of campaigns on Kickstarter, with almost 1,000. The campaigns get, on average, 25% more than the original goal and have a successful rate of **58%**.
 
 The graph 2 – Theater Category Outcomes summarize the above.
 
-![Theater Category Outcomes](.\Report_Graph2.png)
+![Theater Category Outcomes](./Report_Graph2.png)
 
 As comparison, the technology category is the one that brings more money, with an average of 2430% more than the original goal. Although these campaigns draw a good amount of money, they carry a very high-risk factor and most of the campaigns end up in failure. Only 38% of the campaigns are successful.
                                                          
@@ -24,12 +24,12 @@ Regarding the idea to lauch a musical campaign on the UK, the analysis shows tha
 From all the theater plays on Kickstarter, the plays that the goal is less than $5,000 are more likely to be successuful, with aroung 75% success rate. The plays between $10,000 and $15,000 have a 56% of success.
 The graph below summarizes the finds
 
-![Outcomes based on Goals](.\Report_Graph3.png)
+![Outcomes based on Goals](./Report_Graph3.png)
 
 
 Considering all the Kickstarter campaigns, May is defenetly the best month to lauch a campaign. The months of Jan to Mar and Sep to Dec are considerebly not as good and Dec been the worst month of the year.
 
 Refer to the graph below for a better year overview.
 
-![Year_overview](.\Report_Graph4.png)
+![Year_overview](./Report_Graph4.png)
 
